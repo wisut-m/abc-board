@@ -1,2 +1,1 @@
-# abc-board
-ABC Board Kidbright
+# kidbright-arduino-board V. 1.5.0
