@@ -5,7 +5,7 @@ module.exports = {
   description: "บอร์ดที่พัฒนาจากบอร์ด KidBright โดยใช้แพลตฟอร์ม Arduino-ESP32 มีความสามารถเทียบเท่ากับบอร์ด Kidbright 1.5",
   author: "ATtopup",
   website: "",
-  email: "develop@attopup.com",
+  email: "alltechkits@gmail.com",
   git: "https://github.com/wisut-m/abc-board.git",
   image: "/static/abc-board.jpg",
   version: "1.0",
